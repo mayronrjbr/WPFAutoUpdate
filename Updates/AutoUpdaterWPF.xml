@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>2.0.0.0</version>
-  <url>https://github.com/mayronrjbr/WPFAutoUpdate/releases/mysetup.exe</url>
-  <changelog>
-    https://github.com/mayronrjbr/WPFAutoUpdate/releases
-  </changelog>
+  <url>https://github.com/mayronrjbr/WPFAutoUpdate/releases/mysetup.exe</url>  
   <mandatory>false</mandatory>
 </item>
